@@ -1,6 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,7 +9,7 @@ body {
 }
 
 h1 {
-    background-color: #333;
+    background-color: #333333de;
     color: #fff;
     padding: 20px;
     margin: 0;
@@ -32,7 +31,7 @@ h1 {
     max-width: 200px; /* Añadido: anchura máxima del sidebar */
     margin-right: 10px; /* Llega hasta abajo el recuadro */
     margin-block-end: auto;
-    margin-top: auto;
+    margin-top: 10%;
 }
 
 .categoria h2 {
@@ -94,7 +93,7 @@ h1 {
     max-width: 250px;
     margin-bottom: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff70;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
